@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Collections.iml" filepath="$PROJECT_DIR$/Java-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Collections-Arrays.iml" filepath="$PROJECT_DIR$/Java-Collections-Arrays.iml" />
     </modules>
   </component>
 </project>
